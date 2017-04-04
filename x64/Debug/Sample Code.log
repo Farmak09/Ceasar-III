@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\jaumesv1\desktop\sample code\main.cpp(11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\jaumesv1\desktop\sample code\main.cpp(28): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Sample Code.vcxproj -> C:\Users\jaumesv1\Desktop\Sample Code\x64\Debug\Sample Code.exe
+  Sample Code.vcxproj -> C:\Users\jaumesv1\Desktop\Sample Code\x64\Debug\Sample Code.pdb (Full PDB)
